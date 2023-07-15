@@ -9,6 +9,8 @@ This example is built for the web platform, and uses:
 - [`MediaStream`](https://developer.mozilla.org/en-US/docs/Web/API/MediaStream)
 - [`Audio`](https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio)
 
+(Currently, doesn't work on Safari due to audio auto-play restrictions.)
+
 ## Running locally
 
 Start the client:
